@@ -1,4 +1,4 @@
-- <!--- ABHISHEK --->
+- <!---  --->
 <p align="center">
   <img src="your_profile_image_url" alt="Your Name" width="200"/>
 </p>
