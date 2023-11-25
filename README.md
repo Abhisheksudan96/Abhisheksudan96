@@ -1,4 +1,4 @@
-- <!--- ABHISHEK SUDAN --->
+- <!--- ABHISHEK --->
 <p align="center">
   <img src="your_profile_image_url" alt="Your Name" width="200"/>
 </p>
@@ -22,8 +22,7 @@ I'm currently focusing on enhancing my skills in AI, and I'm always excited to l
 <!--- Contact Section --->
 ## 📫 Let's Connect!
 
-- LinkedIn: 
-- Twitter: https://www.linkedin.com/in/abhishek-sudan-5111061a1/
+- LinkedIn: https://www.linkedin.com/in/abhishek-sudan-5111061a1/
 - Email: abhisheksudan95@gmail.com
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about data!
